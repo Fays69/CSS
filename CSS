@@ -1,0 +1,36 @@
+h1
+{
+	color: blue;
+	text-align: center;
+	font-size: 3.5em;
+	text-shadow: 5px 5px 5px royalblue;
+	box-shadow: 5px 5px 5px royalblue;
+	
+}
+
+h3
+{
+    color: blue;
+	text-align: center;
+	font-size: 3.5em;
+	text-shadow: 5px 5px 5px royalblue;
+	box-shadow: 5px 5px 5px royalblue;
+	
+}
+
+h2
+
+{
+   font-size: 1.8em;
+
+}
+
+ul,p
+{
+	font-size: 1.1em;
+}
+
+body
+{
+   background-image: url(pcpro.jpg);
+}
